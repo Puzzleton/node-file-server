@@ -12,3 +12,9 @@ yarn-error.log*
 # HTTPS files
 *.key
 *.cert
+
+# Environment variables
+.env
+
+# CSS
+styles.css
